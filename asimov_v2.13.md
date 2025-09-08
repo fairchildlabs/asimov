@@ -1,3 +1,5 @@
+**asimov : An Equitable Intrinsic Value System **
+
 **or**
 
 **a post-harden rockets cathartic**
