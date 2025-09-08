@@ -1,8 +1,10 @@
-**asimov : An Equitable Intrinsic Value System **
+#asimov : An Equitable Intrinsic Value System
 
 **or**
 
 **a post-harden rockets cathartic**
+
+**by Brandon Awbrey**
 
 **SECOND FOUNDATION**
 
