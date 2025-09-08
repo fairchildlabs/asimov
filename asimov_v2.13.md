@@ -9,8 +9,7 @@
 **Version 2.13**
 
 ![enter image description
-here](./images//media/image1.png){width="0.3333333333333333in"
-height="0.3333333333333333in"} 2023 by Brandon Awbrey. This publication
+here](./images//media/image1.png) 2022 by Brandon Awbrey. This publication
 may be reproduced in whole form if fairly attributed for any
 non-commercial purpose. If you are using this for commercial purposes,
 you better make sure that Brandon is getting paid, unless you are Trey
